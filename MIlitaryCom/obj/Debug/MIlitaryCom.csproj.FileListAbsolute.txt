@@ -1,0 +1,12 @@
+c:\users\neel\documents\visual studio 2013\Projects\MIlitaryCom\MIlitaryCom\bin\Debug\MIlitaryCom.exe.config
+c:\users\neel\documents\visual studio 2013\Projects\MIlitaryCom\MIlitaryCom\bin\Debug\MIlitaryCom.exe
+c:\users\neel\documents\visual studio 2013\Projects\MIlitaryCom\MIlitaryCom\bin\Debug\MIlitaryCom.pdb
+c:\users\neel\documents\visual studio 2013\Projects\MIlitaryCom\MIlitaryCom\obj\Debug\MIlitaryCom.csprojResolveAssemblyReference.cache
+c:\users\neel\documents\visual studio 2013\Projects\MIlitaryCom\MIlitaryCom\obj\Debug\MIlitaryCom.frmLogin.resources
+c:\users\neel\documents\visual studio 2013\Projects\MIlitaryCom\MIlitaryCom\obj\Debug\MIlitaryCom.Properties.Resources.resources
+c:\users\neel\documents\visual studio 2013\Projects\MIlitaryCom\MIlitaryCom\obj\Debug\MIlitaryCom.csproj.GenerateResource.Cache
+c:\users\neel\documents\visual studio 2013\Projects\MIlitaryCom\MIlitaryCom\obj\Debug\MIlitaryCom.exe
+c:\users\neel\documents\visual studio 2013\Projects\MIlitaryCom\MIlitaryCom\obj\Debug\MIlitaryCom.pdb
+c:\users\neel\documents\visual studio 2013\Projects\MIlitaryCom\MIlitaryCom\obj\Debug\MIlitaryCom.frmAdminPage.resources
+c:\users\neel\documents\visual studio 2013\Projects\MIlitaryCom\MIlitaryCom\obj\Debug\MIlitaryCom.frmMessageBoard.resources
+c:\users\neel\documents\visual studio 2013\Projects\MIlitaryCom\MIlitaryCom\obj\Debug\MIlitaryCom.frmRegst.resources
