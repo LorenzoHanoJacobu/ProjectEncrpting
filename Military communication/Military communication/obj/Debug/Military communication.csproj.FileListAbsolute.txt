@@ -1,0 +1,30 @@
+c:\users\riaan\Source\Repos\Military communication\Military communication\bin\Debug\Military communication.exe.config
+c:\users\riaan\Source\Repos\Military communication\Military communication\bin\Debug\Military communication.exe
+c:\users\riaan\Source\Repos\Military communication\Military communication\bin\Debug\Military communication.pdb
+c:\users\riaan\Source\Repos\Military communication\Military communication\obj\Debug\Military communication.csprojResolveAssemblyReference.cache
+c:\users\riaan\Source\Repos\Military communication\Military communication\obj\Debug\Military_communication.frmAdmin.resources
+c:\users\riaan\Source\Repos\Military communication\Military communication\obj\Debug\Military_communication.frmLoadingScreen.resources
+c:\users\riaan\Source\Repos\Military communication\Military communication\obj\Debug\Military_communication.frmLogin.resources
+c:\users\riaan\Source\Repos\Military communication\Military communication\obj\Debug\Military_communication.frmMessageBoard.resources
+c:\users\riaan\Source\Repos\Military communication\Military communication\obj\Debug\Military_communication.Properties.Resources.resources
+c:\users\riaan\Source\Repos\Military communication\Military communication\obj\Debug\Military_communication.frmRegiestration.resources
+c:\users\riaan\Source\Repos\Military communication\Military communication\obj\Debug\Military_communication.frmUpdateAndDelette.resources
+c:\users\riaan\Source\Repos\Military communication\Military communication\obj\Debug\Military communication.csproj.GenerateResource.cache
+c:\users\riaan\Source\Repos\Military communication\Military communication\obj\Debug\Military communication.csproj.CoreCompileInputs.cache
+c:\users\riaan\Source\Repos\Military communication\Military communication\obj\Debug\Military communication.exe
+c:\users\riaan\Source\Repos\Military communication\Military communication\obj\Debug\Military communication.pdb
+C:\Users\Riaan\Desktop\Military communication\Military communication\bin\Debug\Military communication.exe.config
+C:\Users\Riaan\Desktop\Military communication\Military communication\bin\Debug\Military communication.exe
+C:\Users\Riaan\Desktop\Military communication\Military communication\bin\Debug\Military communication.pdb
+C:\Users\Riaan\Desktop\Military communication\Military communication\obj\Debug\Military communication.csprojResolveAssemblyReference.cache
+C:\Users\Riaan\Desktop\Military communication\Military communication\obj\Debug\Military_communication.frmAdmin.resources
+C:\Users\Riaan\Desktop\Military communication\Military communication\obj\Debug\Military_communication.frmLoadingScreen.resources
+C:\Users\Riaan\Desktop\Military communication\Military communication\obj\Debug\Military_communication.frmLogin.resources
+C:\Users\Riaan\Desktop\Military communication\Military communication\obj\Debug\Military_communication.frmMessageBoard.resources
+C:\Users\Riaan\Desktop\Military communication\Military communication\obj\Debug\Military_communication.Properties.Resources.resources
+C:\Users\Riaan\Desktop\Military communication\Military communication\obj\Debug\Military_communication.frmRegiestration.resources
+C:\Users\Riaan\Desktop\Military communication\Military communication\obj\Debug\Military_communication.frmUpdateAndDelette.resources
+C:\Users\Riaan\Desktop\Military communication\Military communication\obj\Debug\Military communication.csproj.GenerateResource.cache
+C:\Users\Riaan\Desktop\Military communication\Military communication\obj\Debug\Military communication.csproj.CoreCompileInputs.cache
+C:\Users\Riaan\Desktop\Military communication\Military communication\obj\Debug\Military communication.exe
+C:\Users\Riaan\Desktop\Military communication\Military communication\obj\Debug\Military communication.pdb
